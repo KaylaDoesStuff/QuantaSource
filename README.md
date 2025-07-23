@@ -3,7 +3,7 @@
 <p align="center">Fork of Gregtech Community Edition Unofficial: Modern made more realistic and reaching into the future.</p>
 <h1 align="center">
     <a href="https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern"><img src="https://img.shields.io/badge/Available%20for-MC%201.20.1%20-informational?style=for-the-badge" alt="Supported Versions"></a>
-    <a href="https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern"><img src="https://img.shields.io/badge/Fork_of-GTCEu%3A_M-informational?style=for-the-badge" alt="Supported Versions"></a>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern"><img src="https://img.shields.io/badge/Fork_of-GTCEu%3A_M-green?style=for-the-badge" alt="GTCEu: M"></a>
     <a href="https://github.com/GregTechCEu/GregTech-Modern/blob/1.20.1/LICENSE"><img src="https://img.shields.io/github/license/GregTechCEu/GregTech?style=for-the-badge" alt="License"></a>
 </h1>
 
